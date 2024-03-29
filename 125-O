@@ -1,0 +1,5 @@
+Inserting the value n: O(logn)
+
+Removing the node with the value n: O(logn)
+
+Searching for a node in an AVL tree of size n: O(logn)

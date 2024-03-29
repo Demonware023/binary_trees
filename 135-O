@@ -1,0 +1,5 @@
+Inserting the value n: O(logn)
+
+Extracting the root node: O(logn)
+
+Searching for a node in a binary heap of size n: O(n)
